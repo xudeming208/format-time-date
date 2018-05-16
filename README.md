@@ -1,13 +1,13 @@
 <h1 align="center">
-  formatTime
+  format-time-date
 </h1>
 <br>
 <p align="center">
-  <a href="https://nodejs.org"><img src="https://img.shields.io/node/v/formatTime.svg" alt="Nodejs"></a>
-  <a href="https://www.npmjs.com/package/formatTime"><img src="https://img.shields.io/npm/v/formatTime.svg" alt="Version"></a>
-  <a href="https://npmcharts.com/compare/formatTime?minimal=true"><img src="https://img.shields.io/npm/dm/formatTime.svg" alt="Downloads"></a>
-  <a href="https://github.com/xudeming208/formatTime/graphs/contributors"><img src="https://img.shields.io/github/contributors/xudeming208/formatTime.svg" alt="Contributors"></a>
-  <a href="https://www.npmjs.com/package/formatTime"><img src="https://img.shields.io/github/license/xudeming208/formatTime.svg" alt="License"></a>
+  <a href="https://nodejs.org"><img src="https://img.shields.io/node/v/format-time-date.svg" alt="Nodejs"></a>
+  <a href="https://www.npmjs.com/package/format-time-date"><img src="https://img.shields.io/npm/v/format-time-date.svg" alt="Version"></a>
+  <a href="https://npmcharts.com/compare/format-time-date?minimal=true"><img src="https://img.shields.io/npm/dm/format-time-date.svg" alt="Downloads"></a>
+  <a href="https://github.com/xudeming208/format-time-date/graphs/contributors"><img src="https://img.shields.io/github/contributors/xudeming208/format-time-date.svg" alt="Contributors"></a>
+  <a href="https://www.npmjs.com/package/format-time-date"><img src="https://img.shields.io/github/license/xudeming208/format-time-date.svg" alt="License"></a>
 </p>
 
 ## Introduction
@@ -42,7 +42,7 @@ new Date().toLocaleString('chinese', {
 
 ## Usage
 ```javascript
-const formatTime = require('formatTime');
+const formatTime = require('format-time-date');
 
 let date = formatTime();
 

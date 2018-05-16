@@ -1,5 +1,5 @@
 {
-  "name": "formatTime",
+  "name": "format-time-date",
   "version": "1.0.0",
   "description": "格式化日期时间",
   "main": "lib/index.js",
@@ -9,12 +9,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/xudeming208/formatTime.git"
+    "url": "git+https://github.com/xudeming208/format-time-date.git"
   },
   "engines": {
     "node": ">= 6.0.0"
   },
   "keywords": [
+    "format-time-date",
     "formattime",
     "formatTime",
     "format time",
@@ -29,9 +30,9 @@
   "author": "xudeming208",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/xudeming208/formatTime/issues"
+    "url": "https://github.com/xudeming208/format-time-date/issues"
   },
-  "homepage": "https://github.com/xudeming208/formatTime#readme",
+  "homepage": "https://github.com/xudeming208/format-time-date#readme",
   "devDependencies": {
     "babel-cli": "^6.26.0",
     "babel-core": "^6.26.0",
