@@ -1,6 +1,6 @@
 {
   "name": "format-time-date",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "格式化日期时间",
   "main": "lib/index.js",
   "scripts": {
