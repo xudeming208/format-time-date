@@ -3,6 +3,7 @@
 </h1>
 <br>
 <p align="center">
+  <a href="https://travis-ci.org/xudeming208/format-time-date"><img src="https://travis-ci.org/xudeming208/format-time-date.svg?branch=master" alt="Travis Status"></a>
   <a href="https://nodejs.org"><img src="https://img.shields.io/node/v/format-time-date.svg" alt="Nodejs"></a>
   <a href="https://www.npmjs.com/package/format-time-date"><img src="https://img.shields.io/npm/v/format-time-date.svg" alt="Version"></a>
   <a href="https://npmcharts.com/compare/format-time-date?minimal=true"><img src="https://img.shields.io/npm/dm/format-time-date.svg" alt="Downloads"></a>

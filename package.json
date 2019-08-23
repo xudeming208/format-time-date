@@ -1,6 +1,6 @@
 {
   "name": "format-time-date",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "格式化日期时间",
   "main": "lib/index.js",
   "scripts": {
@@ -34,8 +34,8 @@
   },
   "homepage": "https://github.com/xudeming208/format-time-date#readme",
   "devDependencies": {
-    "babel-cli": "^6.26.0",
-    "babel-core": "^6.26.0",
-    "babel-preset-env": "^1.6.0"
+    "babel-cli": "6.26.0",
+    "babel-core": "6.26.0",
+    "babel-preset-env": "1.6.0"
   }
 }
